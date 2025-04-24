@@ -1,4 +1,4 @@
-# goit-pythonweb-hw-10
+# A REST API application implemented using a multi-layered architecture.
 
 В даному проекті реалізовано REST API додаток з використанням багаторівневої
 архітектури ![API architecture](images/architecture.png)
